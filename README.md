@@ -8,6 +8,13 @@
 [画面1](https://s3.bmp.ovh/imgs/2021/12/b49a58f0cfd130ce.png)
 [画面2](https://s3.bmp.ovh/imgs/2021/12/31695c96cb95871d.png)
 
+#### 2. 2022/01/10更新 
+1. [我的三国志](https://news.spyouxi.com/udo0kg8p/)
+2. [王国纪元](https://lm.176.com/)
+3. [哈利波特-魔法觉醒](http://www.harrypottermagicawakened.com/cn/)
+4. [Tiktok](https://www.tiktok.com/)
+5. [挖矿传说 ](https://www.taptap.com/app/193997)
+
 *** 
 
 ## 硬件方案：
