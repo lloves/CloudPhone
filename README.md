@@ -2,9 +2,7 @@
 云手机，云游戏项目
 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
 
-## 阿里云推广大师计划（从这个链接购买服务器免费赠送、部署Android最新系统镜像）
-[阿里云-自定义云手机-支持GooglePlay、HOOK、挂机、脚本](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=uvwcl9fu)
-客服微信：smbbbla
+
 
 
 ## 支持游戏&应用List
