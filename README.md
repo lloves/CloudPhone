@@ -3,6 +3,7 @@
 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
 
 ![扫码交流沟通VX](https://github.com/lloves/CloudPhone/blob/main/wx.jpg)
+<img src="https://github.com/lloves/CloudPhone/blob/main/wx.jpg" width="200" height="200" alt="加+VX" /></br>
 
 
 
