@@ -1,6 +1,8 @@
 # CloudPhone
 云手机，云游戏项目
 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
+支持推流，音视频用户Web端播放，动态链接生成分享。
+支持广告运营，云游戏引流等场景。
 
 <img src="https://github.com/lloves/CloudPhone/blob/main/wx.jpg" width="200" height="200" alt="加+VX" /></br>
 
@@ -23,24 +25,28 @@ WeiXin：smbbbla
 4. [Tiktok](https://www.tiktok.com/)
 5. [挖矿传说 ](https://www.taptap.com/app/193997)
 
+#### 3. 2022/09/07更新 
+1. [kwai](https://www.kwai.com/)
+
 *** 
 
 ## 硬件方案：
 X86系列，Nivida AMD显卡；  
 高端国产芯片，RK3566/RK3568系列；  
 中端国产芯片，RK3399系列；  
-华为鲲鹏960系列；  
+华为鲲鹏960、阿里云g6r ARM芯片服务器系列； 
 
 ## 软件支持：
 
 支持Android 7 的稳定方案；  
 支持Android 9 的开发方案；  
 支持Android 11 的开发方案；  
-支持OpenGL ES 3.0 游戏稳定挂机；  
+支持OpenGL ES 3.1 游戏稳定挂机；  
 支持多开，一开多；  
 支持多种脚本框架，稳定运行；  
 支持定制的Xposed，防检测；  
 支持虚拟化，多开；
-支持web传屏；
+支持web传屏推流；
+支持立体声传输；
 
 
