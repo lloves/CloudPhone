@@ -6,12 +6,11 @@
 
 <img src="https://github.com/lloves/CloudPhone/blob/main/wx.jpg" width="200" height="200" alt="加+VX" /></br>
 
+WeiXin：smbbbla 
 
-WeiXin：smbbbla
-[![](https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535566f21249eef76c6a7ef632c?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg)](https://weibo.com/tv/show/1034:4816571684814995)
-[**** 点我 - 云音乐试听 **** ](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605) 
+#### 点击下图体验音乐
 
-
+[![](https://s1.ax1x.com/2022/09/22/xkp63t.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
 
 
 ## 支持游戏&应用List
