@@ -7,8 +7,10 @@
 <img src="https://github.com/lloves/CloudPhone/blob/main/wx.jpg" width="200" height="200" alt="加+VX" /></br>
 
 
-
 WeiXin：smbbbla
+
+[**** 点我 - 云音乐试听 **** ](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605) 
+
 
 
 
