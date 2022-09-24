@@ -53,7 +53,7 @@ X86系列，Nivida AMD显卡；
 
 
 ### 
-#### 3. 2022/09/07更新 [快手-海外版 Kwai](https://www.kwai.com/)
+#### 3. 2022/09/07更新 [快手-海外版 Kwai](https://www.kwai.com/) | [香肠派对]([https://www.kwai.com/](https://xc.xd.com/)) | [老虎机](https://www.kwai.com/)
 
 <div>
       <a href="https://www.kwai.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQsMT.png" width=126 height=126 /></a>
