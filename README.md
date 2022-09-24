@@ -35,26 +35,33 @@ X86系列，Nivida AMD显卡；
 ## 支持游戏&应用List
 
 #### 1. 2021/12/09更新 FreeFire 海外吃鸡
-[![](https://s1.ax1x.com/2022/09/24/xAQZrD.png)](https://s3.bmp.ovh/imgs/2021/12/b49a58f0cfd130ce.png)
-[画面1](https://s3.bmp.ovh/imgs/2021/12/b49a58f0cfd130ce.png)
-[画面2](https://s3.bmp.ovh/imgs/2021/12/31695c96cb95871d.png)
+[![xAQaIs.png](https://s1.ax1x.com/2022/09/24/xAQaIs.png)](https://imgse.com/i/xAQaIs)
 
 #### 2. 2022/01/10更新 
 1. [我的三国志](https://news.spyouxi.com/udo0kg8p/)
-[![](https://s1.ax1x.com/2022/09/24/xAQk26.png)](https://news.spyouxi.com/udo0kg8p/)
+### 
+[![xAQBR0.png](https://s1.ax1x.com/2022/09/24/xAQBR0.png)](https://imgse.com/i/xAQBR0)
+### 
 2. [王国纪元](https://lm.176.com/)
-[![](https://s1.ax1x.com/2022/09/24/xAQeqe.png)](https://lm.176.com/)
+### 
+[![xAQwin.png](https://s1.ax1x.com/2022/09/24/xAQwin.png)](https://imgse.com/i/xAQwin)
+### 
 3. [哈利波特-魔法觉醒](http://www.harrypottermagicawakened.com/cn/)
-[![](https://s1.ax1x.com/2022/09/24/xAQnVH.png)](http://www.harrypottermagicawakened.com/cn/)
+### 
+[![xAQ0Gq.png](https://s1.ax1x.com/2022/09/24/xAQ0Gq.png)](https://imgse.com/i/xAQ0Gq)
+### 
 4. [Tiktok](https://www.tiktok.com/)
-[![](https://s1.ax1x.com/2022/09/24/xAQF8x.png)](https://www.tiktok.com/)
+### 
+[![xAQDzV.png](https://s1.ax1x.com/2022/09/24/xAQDzV.png)](https://imgse.com/i/xAQDzV)
+### 
 5. [挖矿传说 ](https://www.taptap.com/app/193997)
-[![](https://s1.ax1x.com/2022/09/24/xAQAxK.png)](https://www.taptap.com/app/193997)
-
+### 
+[![xAQysU.png](https://s1.ax1x.com/2022/09/24/xAQysU.png)](https://imgse.com/i/xAQysU)
+### 
 #### 3. 2022/09/07更新 
 1. [kwai](https://www.kwai.com/)
-[![](https://s1.ax1x.com/2022/09/24/xAQVKO.png)](https://www.kwai.com/)
-
+### 
+[![xAQsMT.png](https://s1.ax1x.com/2022/09/24/xAQsMT.png)](https://imgse.com/i/xAQsMT)
+###
 *** 
-
 
