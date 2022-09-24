@@ -4,13 +4,13 @@
 支持推流，音视频用户Web端播放，动态链接生成分享。
 支持广告运营，云游戏引流等场景。
 
-<img src="https://s1.ax1x.com/2022/09/24/xAMqCq.png" width="200" height="200" alt="加+VX" /></br>
+<img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1009.png" width="200" height="200" alt="加+VX" /></br>
 
 WeiXin：smbbbla 
 
 #### 点击下图体验音乐
 
-[![](https://s1.ax1x.com/2022/09/22/xkp63t.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
 
 
 ## 硬件方案：
