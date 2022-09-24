@@ -39,17 +39,30 @@ X86系列，Nivida AMD显卡；
 
 #### 2. 2022/01/10更新 [我的三国志](https://news.spyouxi.com/udo0kg8p/) | [王国纪元](https://lm.176.com/) | [哈利波特-魔法觉醒](http://www.harrypottermagicawakened.com/cn/) | [Tiktok](https://www.tiktok.com/) | [挖矿传说 ](https://www.taptap.com/app/193997)
 
-<img src="https://s1.ax1x.com/2022/09/24/xAQBR0.png" width=256 height=256 />
-<img src="https://s1.ax1x.com/2022/09/24/xAQwin.png" width=256 height=256 />
-<img src="https://s1.ax1x.com/2022/09/24/xAQ0Gq.png" width=256 height=256 />
-<img src="https://s1.ax1x.com/2022/09/24/xAQDzV.png" width=256 height=256 />
-<img src="https://s1.ax1x.com/2022/09/24/xAQysU.png" width=256 height=256 />
+
+<table style="display:inline;">
+  <tr>
+    <td>
+      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQBR0.png" width=126 height=126 />
+      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQwin.png" width=126 height=126 />
+      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQ0Gq.png" width=126 height=126 />
+      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQDzV.png" width=126 height=126 />
+      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQysU.png" width=126 height=126 />
+    </td>
+  </tr>
+</table>
+
 
 ### 
-#### 3. 2022/09/07更新 
-1. [kwai](https://www.kwai.com/)
-### 
-[![xAQsMT.png](https://s1.ax1x.com/2022/09/24/xAQsMT.png)](https://www.kwai.com/)
-###
+#### 3. 2022/09/07更新 [kwai](https://www.kwai.com/)
+
+<table style="display:inline;">
+  <tr>
+    <td>
+      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQsMT.png" width=126 height=126 href="https://www.kwai.com/"/>
+    </td>
+  </tr>
+</table>
+
 *** 
 
