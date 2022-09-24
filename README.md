@@ -34,8 +34,14 @@ X86系列，Nivida AMD显卡；
 
 ## 支持游戏&应用List
 
-#### 1. 2021/12/09更新 FreeFire 海外吃鸡
-[![xAQaIs.png](https://s1.ax1x.com/2022/09/24/xAQaIs.png)](https://ff.garena.tw/)
+#### 1. 2021/12/09更新 [FreeFire 海外吃鸡](https://ff.garena.tw/)
+<table style="display:inline;">
+  <tr>
+    <td>
+      <a href="https://ff.garena.tw/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQaIs.png" width=126 height=126 /></a>
+    </td>
+  </tr>
+</table>
 
 #### 2. 2022/01/10更新 [我的三国志](https://news.spyouxi.com/udo0kg8p/) | [王国纪元](https://lm.176.com/) | [哈利波特-魔法觉醒](http://www.harrypottermagicawakened.com/cn/) | [Tiktok](https://www.tiktok.com/) | [挖矿传说 ](https://www.taptap.com/app/193997)
 
@@ -54,12 +60,12 @@ X86系列，Nivida AMD显卡；
 
 
 ### 
-#### 3. 2022/09/07更新 [kwai](https://www.kwai.com/)
+#### 3. 2022/09/07更新 [快手-海外版 Kwai](https://www.kwai.com/)
 
 <table style="display:inline;">
   <tr>
     <td>
-      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQsMT.png" width=126 height=126 href="https://www.kwai.com/"/>
+      <a href="https://www.kwai.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQsMT.png" width=126 height=126 /></a>
     </td>
   </tr>
 </table>
