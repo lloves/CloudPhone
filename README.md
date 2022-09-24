@@ -4,7 +4,7 @@
 支持推流，音视频用户Web端播放，动态链接生成分享。
 支持广告运营，云游戏引流等场景。
 
-<img src="https://github.com/lloves/CloudPhone/blob/main/wx.jpg" width="200" height="200" alt="加+VX" /></br>
+<img src="https://s1.ax1x.com/2022/09/24/xAMqCq.png" width="200" height="200" alt="加+VX" /></br>
 
 WeiXin：smbbbla 
 
