@@ -13,6 +13,25 @@ WeiXin：smbbbla
 [![](https://s1.ax1x.com/2022/09/22/xkp63t.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
 
 
+## 硬件方案：
+X86系列，Nivida AMD显卡；  
+高端国产芯片，RK3566/RK3568系列；  
+中端国产芯片，RK3399系列；  
+华为鲲鹏960、阿里云g6r ARM芯片服务器系列； 
+
+## 软件支持：
+
+支持Android 7 的稳定方案；  
+支持Android 9 的开发方案；  
+支持Android 11 的开发方案；  
+支持OpenGL ES 3.1 游戏稳定挂机；  
+支持多开，一开多；  
+支持多种脚本框架，稳定运行；  
+支持定制的Xposed，防检测；  
+支持虚拟化，多开；
+支持web传屏推流；
+支持立体声传输；
+
 ## 支持游戏&应用List
 
 #### 1. 2021/12/09更新 FreeFire 海外吃鸡
@@ -34,27 +53,8 @@ WeiXin：smbbbla
 
 #### 3. 2022/09/07更新 
 1. [kwai](https://www.kwai.com/)
-[![](https://s1.ax1x.com/2022/09/24/xAQVKO.png)](kwai](https://www.kwai.com/)
+[![](https://s1.ax1x.com/2022/09/24/xAQVKO.png)](https://www.kwai.com/)
 
 *** 
-
-## 硬件方案：
-X86系列，Nivida AMD显卡；  
-高端国产芯片，RK3566/RK3568系列；  
-中端国产芯片，RK3399系列；  
-华为鲲鹏960、阿里云g6r ARM芯片服务器系列； 
-
-## 软件支持：
-
-支持Android 7 的稳定方案；  
-支持Android 9 的开发方案；  
-支持Android 11 的开发方案；  
-支持OpenGL ES 3.1 游戏稳定挂机；  
-支持多开，一开多；  
-支持多种脚本框架，稳定运行；  
-支持定制的Xposed，防检测；  
-支持虚拟化，多开；
-支持web传屏推流；
-支持立体声传输；
 
 
