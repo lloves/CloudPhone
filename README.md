@@ -43,11 +43,11 @@ X86系列，Nivida AMD显卡；
 <table style="display:inline;">
   <tr>
     <td>
-      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQBR0.png" width=126 height=126 />
-      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQwin.png" width=126 height=126 />
-      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQ0Gq.png" width=126 height=126 />
-      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQDzV.png" width=126 height=126 />
-      <img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQysU.png" width=126 height=126 />
+      <a href="https://news.spyouxi.com/udo0kg8p/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQBR0.png" width=126 height=126 /></a>
+      <a href="https://lm.176.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQwin.png" width=126 height=126 /></a>
+      <a href="http://www.harrypottermagicawakened.com/cn/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQ0Gq.png" width=126 height=126 /></a>
+      <a href="https://www.tiktok.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQDzV.png" width=126 height=126 /></a>
+      <a href="https://www.taptap.com/app/193997"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQysU.png" width=126 height=126 /></a>
     </td>
   </tr>
 </table>
