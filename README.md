@@ -57,7 +57,7 @@ X86系列，Nivida AMD显卡；
 
 <div>
       <a href="https://www.kwai.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQsMT.png" width=126 height=126 /></a>
-      <a href="https://xc.xd.com/"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220924/1011.png" width=126 height=126 /></a>
+      <a href="https://xc.xd.com/"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220924/1012.png" width=126 height=126 /></a>
       <a href="https://www.kwai.com/"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220924/1011.png" width=126 height=126 /></a>
       
       
