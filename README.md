@@ -13,6 +13,8 @@ WeiXin：smbbbla
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
 
 
+[![IMAGE ALT TEXT](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4 "视频演示")
+
 ## 硬件方案：
 X86系列，Nivida AMD显卡；  
 阿里云g6r ARM芯片服务器系列； 
