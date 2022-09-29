@@ -1,5 +1,9 @@
 # CloudPhone
 云手机，云游戏项目
+
+#### 云手机、云游戏，支持私域、公域两种方式搭建。有X86、Arm 主机就可以。
+#### Android系统可开源、可定制，超强悍的游戏应用适配技术。低成本、更灵活。
+
 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
 支持推流，音视频用户Web端播放，动态链接生成分享。
 支持广告运营，云游戏引流等场景。
@@ -12,6 +16,7 @@ WeiXin：smbbbla
 
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
 
+#### 点击下图观看视频
 
 [![IMAGE ALT TEXT](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4 "视频演示")
 
