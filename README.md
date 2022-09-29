@@ -18,7 +18,8 @@ WeiXin：smbbbla
 
 #### 点击下图观看视频
 
-[![IMAGE ALT TEXT](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4 "视频演示")
+<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png" width=240 height=480 /></a>
+      
 
 ## 硬件方案：
 X86系列，Nivida AMD显卡；  
