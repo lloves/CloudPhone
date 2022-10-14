@@ -43,32 +43,14 @@ X86系列，Nivida AMD显卡；
 ## 支持游戏&应用List
 
 #### 1. 2021/12/09更新 [FreeFire 海外吃鸡](https://ff.garena.tw/)
-<div>
-      <a href="https://ff.garena.tw/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQaIs.png" width=126 height=126 /></a>
-</div>
+
 
 #### 2. 2022/01/10更新 [我的三国志](https://news.spyouxi.com/udo0kg8p/) | [王国纪元](https://lm.176.com/) | [哈利波特-魔法觉醒](http://www.harrypottermagicawakened.com/cn/) | [Tiktok](https://www.tiktok.com/) | [挖矿传说 ](https://www.taptap.com/app/193997)
 
-
-<div>
-      <a href="https://news.spyouxi.com/udo0kg8p/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQBR0.png" width=126 height=126 /></a>
-      <a href="https://lm.176.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQwin.png" width=126 height=126 /></a>
-      <a href="http://www.harrypottermagicawakened.com/cn/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQ0Gq.png" width=126 height=126 /></a>
-      <a href="https://www.tiktok.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQDzV.png" width=126 height=126 /></a>
-      <a href="https://www.taptap.com/app/193997"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQysU.png" width=126 height=126 /></a>
-</div>
 
 
 ### 
 #### 3. 2022/09/07更新 [快手-海外版 Kwai](https://www.kwai.com/) | [香肠派对](https://xc.xd.com/) | [老虎机](https://www.kwai.com/)
 
-<div>
-      <a href="https://www.kwai.com/"><img style="overflow:hidden;" src="https://s1.ax1x.com/2022/09/24/xAQsMT.png" width=126 height=126 /></a>
-      <a href="https://xc.xd.com/"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220924/1012.png" width=126 height=126 /></a>
-      <a href="https://www.kwai.com/"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220924/1011.png" width=126 height=126 /></a>
-      
-      
-</div>
 
-*** 
 
