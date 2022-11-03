@@ -12,6 +12,13 @@
 
 WeiXin：smbbbla 
 
+
+
+### 云控系统
+<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4">点击演示</a>
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 #### 点击下图体验音乐
 
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
