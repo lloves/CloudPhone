@@ -35,7 +35,7 @@ X86系列，Nivida AMD显卡；
 华为鲲鹏arm服务器;
 
 ## 软件支持：
-
+云控系统；  
 支持Android 7 方案；  
 支持Android 9 方案；  
 支持Android 11 方案；  
