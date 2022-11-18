@@ -37,6 +37,7 @@ X86系列，Nivida AMD显卡；
 ## 软件支持：
 云控系统；  
 支持Android 7 方案；  
+原神低成本软硬件一体养号方案；  
 支持Android 9 方案；  
 支持Android 11 方案；  
 支持OpenGL ES 3.1-3.2 游戏稳定挂机；  
