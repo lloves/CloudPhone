@@ -9,6 +9,10 @@
 支持广告运营，云游戏引流等场景。
 
 
+<img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="200" height="200" alt="加+VX" /></br>
+
+WeiXin：smbbbla 
+
 
 ### 云控系统
 <a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4">点击演示</a>
