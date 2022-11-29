@@ -30,7 +30,7 @@ WeiXin：smbbbla
 
 #### 点击下图观看视频
 
-<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png" width=360 height=640 /></a>
+<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png" width=240 height=460 /></a>
       
 
 ## 硬件方案：
