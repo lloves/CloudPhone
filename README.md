@@ -19,6 +19,9 @@ WeiXin：smbbbla
 ### 云控系统
 <a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4">点击演示</a>
 
+### 挂机多开
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/mmexport1669700201916.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/lv_0_20221129131515.mp4)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 点击下图体验音乐
