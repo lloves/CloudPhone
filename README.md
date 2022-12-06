@@ -104,7 +104,7 @@ X86系列，Nivida AMD显卡；
 
 #### 点击下图观看视频
 
-< a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/616.png" width=240 height=480 /></ a>
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/616.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4)
 
 
 
