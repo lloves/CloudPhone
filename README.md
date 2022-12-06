@@ -96,6 +96,8 @@ X86系列，Nivida AMD显卡；
 2. 优势是可以快速基于阿里云、AWS云等厂家服务快速搭建，运行稳定。缺点是成本极高、游戏兼容适配稍弱。
 
 
+## 演示:
+
 #### 点击下图体验音乐
 
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
@@ -104,7 +106,7 @@ X86系列，Nivida AMD显卡；
 
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4)
 
-<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png" width=0 height=0 /></a>
+
 
 
 
