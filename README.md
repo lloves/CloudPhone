@@ -23,14 +23,6 @@ WeiXin：smbbbla
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/mmexport1669700201916.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/lv_0_20221129131515.mp4)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
-#### 点击下图体验音乐
-
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
-
-#### 点击下图观看视频
-
-<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png" width=240 height=460 /></a>
       
 
 ## 硬件方案：
@@ -83,7 +75,7 @@ X86系列，Nivida AMD显卡；
 2. 另外一方面则是虚拟化技术的不断发展，而游戏检测技术升级慢，无法识别虚拟环境，被迫默许。
 
 #### 问题2：硬件服务器一台动辄好几万，十几万，怎么赚钱呢？
-1. 一个128核的服务器cpu，可以模拟出100个手机。虚拟一个云手机手机300-8000块硬件成本。比真机成本低。
+1. 一个128核的服务器cpu，可以模拟出100个手机。虚拟一个云手机手机300-800块硬件成本。比真机成本低。
 2. 云手机分时复用技术，用户不是同时在使用。一台服务器可以分开无限多个实例，不同实例分批分时工作，可以降低成本。
 3. 大规模的arm服务器，硬件运行稳定，贬值率底。
 
@@ -102,6 +94,15 @@ X86系列，Nivida AMD显卡；
 #### 问题6：有没有更强悍的云游戏方案?
 1. 有的，基于外挂式的英伟达、AMD 显卡方案，是高端云游场景的必选方案。
 2. 优势是可以快速基于阿里云、AWS云等厂家服务快速搭建，运行稳定。缺点是成本极高、游戏兼容适配稍弱。
+
+
+#### 点击下图体验音乐
+
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
+
+#### 点击下图观看视频
+
+<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4"><img style="overflow:hidden;" src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/1013.png" width=240 height=460 /></a>
 
 
 
