@@ -30,7 +30,8 @@ X86系列，Nivida AMD显卡；
 阿里云g6r ARM芯片服务器系列； 
 高端国产芯片，RK3588/RK3568系列；  
 华为鲲鹏arm服务器;
-![image](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/server2.png)
+
+<img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/server2.png" width="400" height="200" alt="Arm服务器"/><br/>
 
 **标准机架式服务器。支持机房搭建。**
 
