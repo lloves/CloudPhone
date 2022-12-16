@@ -31,7 +31,7 @@ X86系列，Nivida AMD显卡；
 高端国产芯片，RK3588/RK3568系列；  
 华为鲲鹏arm服务器;
 
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/server1.jpg)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/server1.jpg)
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/server2.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/server2.png)
 
 **标准机架式服务器。支持机房搭建。**
 
