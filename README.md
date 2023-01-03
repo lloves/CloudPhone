@@ -33,7 +33,7 @@ X86系列，Nivida AMD显卡；
 
 ## Arm服务器外观
 
-<img src="https://imgloc.com/i/4kwpb" width="200" height="200" alt="Arm服务器" /></br>
+支持多种规格的ARM服务器。
 
 
 **标准机架式服务器。支持机房搭建。**
