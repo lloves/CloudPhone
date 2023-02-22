@@ -89,7 +89,7 @@ X86系列，Nivida AMD显卡；
 
 #### 点击下图体验音乐
 
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/337256782,4816572054505605.html?weibo_id=4816572054505605)
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/368619740,4816572054505605.html?weibo_id=4816572054505605)
 
 
 
