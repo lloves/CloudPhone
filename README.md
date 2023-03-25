@@ -44,13 +44,15 @@ WeiXin：smbbbla
 - 高端国产芯片，瑞芯微 RK3588/RK3399系列；  
 - 华为鲲鹏arm服务器;
 
-## 服务器厂家参考【如果侵权联系我们删除】：
+## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
 - 联泰集群 https://www.lthpc.com/
 - 成都凌点科技 https://leadien.com/
 - 中山市天启智能科技 https://www.t-firefly.com/news/457.html
 - Ampere Computing LLC https://amperecomputing.com/zh-CN
 - AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
 - 阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
+- 英伟达显卡 消费级别 Nvidia 1060-4090、服务器显卡 T4 https://www.nvidia.cn/geforce/graphics-cards/
+- ADM显卡 https://www.amd.com/zh-hans
 
 ## Arm服务器外观
 
