@@ -52,7 +52,7 @@ WeiXin：smbbbla
 - 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
 - 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
 - 【AWS 服务器规 ARM芯片】AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
-- 【AWS 服务器规 ARM芯片】阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
+- 【Aliyun 服务器规 ARM芯片】阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
 - 【Nvidia消费级、服务器级别显卡】英伟达显卡 消费级别 Nvidia 1060-4090、服务器显卡 T4 https://www.nvidia.cn/geforce/graphics-cards/
 - 【ADM消费级、服务器级别显卡】ADM显卡 https://www.amd.com/zh-hans
 - 【天玑9000 ARM芯片】联系定制
