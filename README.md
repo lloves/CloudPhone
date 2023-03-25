@@ -39,10 +39,18 @@ WeiXin：smbbbla
       
 
 ## 硬件方案：
-X86系列，Nivida AMD显卡；  
-阿里云g6r ARM芯片服务器系列； 
-高端国产芯片，RK3588/RK3568系列；  
-华为鲲鹏arm服务器;
+- X86系列，Nivida AMD显卡；  
+- 阿里云g6r ARM芯片服务器系列； 
+- 高端国产芯片，瑞芯微 RK3588/RK3399系列；  
+- 华为鲲鹏arm服务器;
+
+## 服务器厂家参考【如果侵权联系我们删除】：
+- 联泰集群 https://www.lthpc.com/
+- 成都凌点科技 https://leadien.com/
+- 中山市天启智能科技 https://www.t-firefly.com/news/457.html
+- Ampere Computing LLC https://amperecomputing.com/zh-CN
+- AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
+- 阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
 
 ## Arm服务器外观
 
