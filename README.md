@@ -5,6 +5,25 @@
 ## 云手机不止是游戏多开和挂机，ARM架构虚拟形态未来大有可为
 
 
+## 硬件方案：
+- X86系列，Nivida AMD显卡；  
+- 阿里云g6r ARM芯片服务器系列； 
+- 高端国产芯片，瑞芯微 RK3588/RK3399系列；  
+- 华为鲲鹏920 - arm服务器;
+
+## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
+- 【安培 服务器规 ARM芯片】联泰集群 https://www.lthpc.com/
+- 【RK3588、3399 ARM芯片】成都凌点科技 https://leadien.com/
+- 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
+- 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
+- 【AWS 服务器规 ARM芯片】AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
+- 【Aliyun 服务器规 ARM芯片】阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
+- 【Nvidia消费级、服务器级别显卡】英伟达显卡 消费级别 Nvidia 1060-4090、服务器显卡 T4 https://www.nvidia.cn/geforce/graphics-cards/
+- 【ADM消费级、服务器级别显卡】ADM显卡 https://www.amd.com/zh-hans
+- 【天玑9000 ARM芯片】联系定制
+- 【高通845 ARM芯片】联系定制
+
+
 ## 功能更新日志：
 
 ### 20231103
@@ -36,26 +55,9 @@
 - 5.中台技术更新；
 
 ### 20230523
-- 1.内核VPN软件；
+- 1.旁路由方案；
 - 2.内核全局抓包工具；
 - 3.支持root权限管理；
-
-
-____________________________________________ 
-
-#### - 基于移动OS虚拟化技术、边缘算力技术。
-
-#### - 拥有核心自主的GPU远端渲染技术。与市面上开源的云手机方案最明显的区别，支持移动端游戏。
-#### - 与ucloud云手机、红手指、多多云等商用云手机的方案区别：定制HOOK注入方案、虚拟相机、位置模拟、动态IP、指定游戏脚本定制
-
-#### - 云手机、云游戏，支持私域、公域两种方式搭建。有X86、Arm 主机就可以, Android系统可开源、可定制，超强悍的游戏应用适配技术。低成本、更灵活。
-
-## 技术特点【快速搭建整套Web3、云手机方案、PaaS方案，实现广告营销、游戏推广、工作室等需求】
-
-- 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
-- 支持推流，音视频用户Web端播放，动态链接生成分享。
-- 支持广告运营，云游戏引流等场景。
-
 
 
 <img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="200" height="200" alt="加+VX" /></br>
@@ -77,24 +79,6 @@ WeiXin：smbbbla
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
       
-
-## 硬件方案：
-- X86系列，Nivida AMD显卡；  
-- 阿里云g6r ARM芯片服务器系列； 
-- 高端国产芯片，瑞芯微 RK3588/RK3399系列；  
-- 华为鲲鹏arm服务器;
-
-## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
-- 【安培 服务器规 ARM芯片】联泰集群 https://www.lthpc.com/
-- 【RK3588、3399 ARM芯片】成都凌点科技 https://leadien.com/
-- 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
-- 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
-- 【AWS 服务器规 ARM芯片】AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
-- 【Aliyun 服务器规 ARM芯片】阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
-- 【Nvidia消费级、服务器级别显卡】英伟达显卡 消费级别 Nvidia 1060-4090、服务器显卡 T4 https://www.nvidia.cn/geforce/graphics-cards/
-- 【ADM消费级、服务器级别显卡】ADM显卡 https://www.amd.com/zh-hans
-- 【天玑9000 ARM芯片】联系定制
-- 【高通845 ARM芯片】联系定制
 
 ## 支持的单机硬件产品
 - Station M3 娱乐·极客主机M3 https://www.stationpc.cn/product/stationm3
@@ -159,6 +143,21 @@ WeiXin：smbbbla
 
 [![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/368619740,4816572054505605.html?weibo_id=4816572054505605)
 
+
+____________________________________________ 
+
+#### - 基于移动OS虚拟化技术、边缘算力技术。
+
+#### - 拥有核心自主的GPU远端渲染技术。与市面上开源的云手机方案最明显的区别，支持移动端游戏。
+#### - 与ucloud云手机、红手指、多多云等商用云手机的方案区别：定制HOOK注入方案、虚拟相机、位置模拟、动态IP、指定游戏脚本定制
+
+#### - 云手机、云游戏，支持私域、公域两种方式搭建。有X86、Arm 主机就可以, Android系统可开源、可定制，超强悍的游戏应用适配技术。低成本、更灵活。
+
+## 技术特点【快速搭建整套Web3、云手机方案、PaaS方案，实现广告营销、游戏推广、工作室等需求】
+
+- 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
+- 支持推流，音视频用户Web端播放，动态链接生成分享。
+- 支持广告运营，云游戏引流等场景。
 
 ## ☆☆☆☆☆☆☆业内最灵活可定制的的云手机方案☆☆☆☆☆☆☆☆☆
 
