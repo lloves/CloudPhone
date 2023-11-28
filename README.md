@@ -28,7 +28,7 @@
 
 ### 20231103
 - 1.开源显卡Mesa库支持、游戏渲染兼容补丁不断提供；
-- 2.webrtc游戏试玩H5方案支持；
+- 2.webrtc游戏试玩H5方案支持 <a href="https://github.com/lloves/WebrtcScreen">点击演示</a>；
 
 ### 20231010
 - 1.魔改scrcpy推流接口，通过ip访问云手机画面；
