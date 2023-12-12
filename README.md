@@ -7,7 +7,7 @@
 Cloud Phone, Cloud Gaming Project
 
 ## 【Welcome for technical exchanges, free technical consulting support is provided except for customized projects】
-## 【Cloud phones are not just for multiple gaming accounts and hang-up gaming; the future of ARM architecture in virtual form is promising】
+## 【Cloud phones are not just for multiple gaming accounts and running; the future of ARM architecture in virtual form is promising】
 ## 【Technical Features [Quickly build a complete set of Web3, Cloud Phone solutions, PaaS solutions, meeting the needs of advertising marketing, game promotion, studios, etc.】
 
 ## Hardware Solutions:
