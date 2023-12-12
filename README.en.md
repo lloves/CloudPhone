@@ -64,6 +64,21 @@ Cloud Phone, Cloud Gaming Project
 2. Global packet capture tool in the kernel;
 3. Support for root permission management;
 
+
+<img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="200" height="200" alt="WeChat" /></br>
+
+Wechat：smbbbla  
+可以联系，在线体验。
+
+
+### Cloud phone ctrl system
+<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4">Backend Demo</a>
+
+<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4">Click Show</a>
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/4632.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4)
+
+
+
 ## Software Support:
 - Cloud control system;
 - Supports Android 7;
