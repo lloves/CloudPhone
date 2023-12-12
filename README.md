@@ -2,7 +2,7 @@
 [English](README.md)
 [中文说明](README_zh.md)
 
-<a href="https://github.com/lloves/CloudPhone/edit/main/README_zh.md">云手机方案中文介绍</a>
+<a href="README_zh.md">云手机方案中文介绍</a>
 
 # CloudPhone <a href="https://metascreen.cn/">MetaScreen Official Website</a>
 Cloud Phone, Cloud Gaming Project
