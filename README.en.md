@@ -1,3 +1,9 @@
+# Languages
+[English](README.md)
+[    ]()
+[中文说明](README_zh.md)
+
+
 # CloudPhone <a href="https://metascreen.cn/">MetaScreen Official Website</a>
 Cloud Phone, Cloud Gaming Project
 
