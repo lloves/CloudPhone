@@ -1,4 +1,3 @@
-[English](README_en.md)
 [中文说明](README.md)
 
 <a href="README_en.md">English</a>
