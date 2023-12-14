@@ -1,6 +1,8 @@
 [English](README_en.md)
 [中文说明](README.md)
 
+<a href="README_en.md">English</a>
+
 # CloudPhone <a href="https://metascreen.cn/">MetaScreen官网</a>
 云手机，云游戏项目
 
