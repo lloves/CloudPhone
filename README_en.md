@@ -1,6 +1,6 @@
 # Languages
-[English](README.md)
-[中文说明](README_zh.md)
+[English](README_en.md)
+[中文说明](README.md)
 
 <a href="README_zh.md">云手机方案中文介绍</a>
 
