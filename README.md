@@ -24,7 +24,7 @@
 - 【AWS 服务器规 ARM芯片】AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
 - 【Aliyun 服务器规 ARM芯片】阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
 - 【Nvidia消费级、服务器级别显卡】英伟达显卡 消费级别 Nvidia 1060-4090、服务器显卡 T4 https://www.nvidia.cn/geforce/graphics-cards/
-- 【ADM消费级、服务器级别显卡】ADM显卡 https://www.amd.com/zh-hans
+- 【AMD消费级、服务器级别显卡】AMD显卡 https://www.amd.com/zh-hans
 - 【天玑9000 ARM芯片】联系定制
 - 【高通845 ARM芯片】联系定制
 
