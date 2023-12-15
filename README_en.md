@@ -71,6 +71,11 @@ Cloud Phone, Cloud Gaming Project
 3. Support for root permission management;
 
 
+### Technlogy Communication
+
+[Technlogy](https://t.me/hkmetacc)
+
+
 <img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="200" height="200" alt="WeChat" /></br>
 
 Wechat：smbbbla  
