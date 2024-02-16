@@ -31,7 +31,6 @@
 
 ## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
 - 【安培 服务器规 ARM芯片】联泰集群 https://www.lthpc.com/
-- 【RK3588、3399 ARM芯片】成都凌点科技 https://leadien.com/
 - 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
 - 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
 - 【AWS 服务器规 ARM芯片】AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
