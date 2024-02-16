@@ -5,7 +5,7 @@
 
 ## [欢迎技术交流，除定制项目外，免费开放提供技术咨询支持]
 ### ✰✰✰✰✰ 过Root、安全检测，对抗黑盒神教，验证可行的开源方案推荐【技术普及，安全交流】✰✰✰✰✰；
-- SafetyNet 过检测：
+-  Play Integrity（SafetyNet弃用) 过检测：
   
         https://github.com/chiteroman/PlayIntegrityFix
 
