@@ -6,7 +6,7 @@
 ## [欢迎技术交流，除定制项目外，免费开放提供技术咨询支持]
 
 ### ✰✰✰✰✰ 真机参数克隆仿真技术交流 ✰✰✰✰✰
-- Telegram ： <a href="https://t.me/hkmetacc">可聊</a>
+- Telegram ： <a href="https://t.me/hkmetacc">Biki</a>
 - 微信：smbbbla
 
 ### ✰✰✰✰✰ 过Root、安全检测，验证可行的开源方案推荐 ✰✰✰✰✰
