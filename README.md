@@ -9,22 +9,6 @@
 - Telegram ： <a href="https://t.me/hkmetacc">Biki</a>
 - 微信：smbbbla
 
-### ✰✰✰✰✰ 过Root、安全检测，验证可行的开源方案推荐 ✰✰✰✰✰
-【技术普及，安全交流】
--  Play Integrity（SafetyNet弃用) 过检测：
-  
-        https://github.com/chiteroman/PlayIntegrityFix
-
-- Bootloader解锁后过检测：
-  
-        https://github.com/vvb2060/KeyAttestation   
-        https://github.com/chiteroman/BootloaderSpoofer
-
-- KernelSU 【Docker多开也可支持】：
-  
-        https://github.com/tiann/KernelSU
-
-
 ## 云手机不止是游戏多开和挂机，ARM架构虚拟形态未来大有可为
 ## 技术特点【快速搭建整套Web3、云手机方案、PaaS方案，实现广告营销、游戏推广、工作室等需求】
 
