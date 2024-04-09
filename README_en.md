@@ -11,6 +11,9 @@ Cloud Phone, Cloud Gaming Project
 ## 【Cloud phones are not just for multiple gaming accounts and running; the future of ARM architecture in virtual form is promising】
 ## 【Technical Features [Quickly build a complete set of Web3, Cloud Phone solutions, PaaS solutions, meeting the needs of advertising marketing, game promotion, studios, etc.】
 
+- Telegram ： <a href="https://t.me/hkmetacc">Biki</a>
+- wechat：smbbbla
+
 ## Hardware Solutions:
 - Rockchip RK3588 series; Qualcomm chips;
 - Huawei Kunpeng 920 - ARM server;
