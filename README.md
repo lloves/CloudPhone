@@ -39,7 +39,7 @@
 
 ## 功能更新日志：
 
-### 20240522
+### 20240619
 - 支持Google Play Integrity / SafetyNet 基础版本通过；
 - 移植支持Android 14版本系统；
 
