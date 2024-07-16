@@ -21,6 +21,9 @@
 
 ## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
 - 【香橙派5全系列】香橙派 http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/index.html
+  ```
+  香橙派内核支持云手机的补丁： https://github.com/lloves/OrangePi5-support
+  ```
 - 【安培 服务器规 ARM芯片】联泰集群 https://www.lthpc.com/
 - 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
 - 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
