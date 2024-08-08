@@ -1,6 +1,6 @@
 <a href="README_en.md">English</a>
 
-# CloudPhone <a href="https://lite-con-hw.cloud-control.top:8209/public/#/login">MetaScreen官网</a>
+# CloudPhone <a href="http://43.156.119.111/">MetaScreen官网</a>
 云手机，云游戏项目
 
 ## [欢迎技术交流，除定制项目外，免费开放提供技术咨询支持]
