@@ -5,6 +5,21 @@
 
 ## [欢迎技术交流，除定制项目外，免费开放提供技术咨询支持]
 
+## 开源硬件支持 配置/代码
+```
+  1. 香橙派5系列，内核支持云手机的补丁： https://github.com/lloves/OrangePi5-support
+```
+```
+  2. DUMP真机信息工具：https://github.com/lloves/CloudPhone/tree/main/%E5%B7%A5%E5%85%B7
+```
+```
+  3. 云手机开源代理 redsocks：https://github.com/lloves/proxy_android
+```
+```
+  4. Webrtc代码 +联系人，开源分享：https://github.com/lloves/WebrtcScreen
+```
+
+
 ### ✰✰✰✰✰ 真机参数克隆仿真技术交流 ✰✰✰✰✰
 - Telegram ： <a href="https://t.me/hkmetacc">Biki</a>
 - 微信：smbbbla
@@ -21,9 +36,6 @@
 
 ## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
 - 【香橙派5全系列】香橙派 http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/index.html
-  ```
-  香橙派内核支持云手机的补丁： https://github.com/lloves/OrangePi5-support
-  ```
 - 【安培 服务器规 ARM芯片】联泰集群 https://www.lthpc.com/
 - 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
 - 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
