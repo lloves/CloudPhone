@@ -8,4 +8,10 @@
 
 [PlayIntegrity Video](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/PlayIntegrity/PlayIntegrity.mp4)
 
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/PlayIntegrity/ludashi-0608.png)]
+
+
+[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/PlayIntegrity/Hunter-6.21.png)]
+
+
 ### 共享谷歌认证
