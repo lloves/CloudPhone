@@ -198,17 +198,6 @@ WeiXin：smbbbla
 
 #### 3. 国产消费级Arm芯片，原神等大型手游实时多开挂机方案【硬件+源码】。
 
-## 演示:
-
-#### 点击下图观看视频
-
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/616.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20220928/paasdemo.mp4)
-
-
-#### 点击下图体验音乐
-
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/1010.png)](https://share.api.weibo.cn/share/368619740,4816572054505605.html?weibo_id=4816572054505605)
-
 
 ____________________________________________ 
 
