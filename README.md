@@ -17,7 +17,7 @@ AOSP系统API仿真（教程免费）
 ## [欢迎技术交流，除定制项目外，免费开放提供技术咨询支持]
 
 ### ✰✰✰✰✰ 真机参数克隆仿真技术交流 ✰✰✰✰✰
-- Telegram ： <a href="https://t.me/hkmetacc">Biki</a>
+- Telegram ： <a href="https://t.me/hkmetacc">仅限技术交流，谨防冒充账号，合作务必谨慎</a>
 - 微信：smbbbla
 
 ## 云手机不止是游戏多开和挂机，ARM架构虚拟形态未来大有可为
