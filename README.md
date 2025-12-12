@@ -4,222 +4,275 @@
 
 ------
 
-## 云手机，云游戏项目
-AOSP系统API仿真（教程免费）
-云手机检测/模拟器检测/谷歌认证 play integrity /TEE （支持定制）
+## 🌐 我们使用的AI算力/移动云
 
-## 云手机仿真技术定制(Syscall 仿真定制-单容器内核独立风控 | KVM 方案定制 | 硬件直刷Android风控定制 | 指定APP协议交付-协议交易)
+<div style="display: flex; gap: 20px;">
 
+<a href="https://www.vmoscloud.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Android-VMOS-blue?style=for-the-badge" alt="VMOS">
+</a>
 
+<a href="https://imodular.cloud" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/iOS-iModular-lightgrey?style=for-the-badge" alt="iModular">
+</a>
 
-## [AI训练大规模数据爬虫、协议交易]
+<a href="https://api.autodl.com/home" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/AIGC-算力云-orange?style=for-the-badge" alt="算力云">
+</a>
 
-## [欢迎技术交流，除定制项目外，免费开放提供技术咨询支持]
+</div>
 
-### ✰✰✰✰✰ 真机参数克隆仿真技术交流 ✰✰✰✰✰
-- Telegram ： <a href="https://t.me/hkmetacc">仅限技术交流，谨防冒充账号，合作务必谨慎</a>
-- 微信：smbbbla
-
-## 云手机不止是游戏多开和挂机，ARM架构虚拟形态未来大有可为
-## 技术特点【快速搭建整套Web3、云手机方案、PaaS方案，实现广告营销、游戏推广、工作室等需求】
-## [云手机虚拟化，风控仿真，过谷歌认证，沙盒技术，云手机SaaS系统开发]
-
-## 硬件方案：
-- 瑞芯微 RK3588系列；高通芯片；  
-- 华为鲲鹏920 - arm服务器;
-- 阿里云g6r ARM芯片服务器系列；
-- X86系列，Nivida AMD显卡；  
-
-## 支持的硬件服务器、设备来源【如果侵权联系我们删除】：
-- 【香橙派5全系列】香橙派 http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/index.html
-- 【安培 服务器规 ARM芯片】联泰集群 https://www.lthpc.com/
-- 【RK3588、3399 ARM芯片】中山市天启智能科技 https://www.t-firefly.com/news/457.html
-- 【安培 服务器规 ARM芯片】Ampere Computing LLC https://amperecomputing.com/zh-CN
-- 【AWS 服务器规 ARM芯片】AWS Arm服务器 https://aws.amazon.com/cn/ec2/instance-types/a1/
-- 【Aliyun 服务器规 ARM芯片】阿里云 Arm服务器 https://www.aliyun.com/daily-act/ecs/ecs_arm 
-- 【Nvidia消费级、服务器级别显卡】英伟达显卡 消费级别 Nvidia 1060-4090、服务器显卡 T4 https://www.nvidia.cn/geforce/graphics-cards/
-- 【AMD消费级、服务器级别显卡】AMD显卡 https://www.amd.com/zh-hans
-- 【天玑9000 ARM芯片】联系定制
-- 【高通845 ARM芯片】联系定制
-
-## 软件方案
-- 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
-- 支持推流，音视频用户Web端播放，动态链接生成分享。
-- 支持广告运营，云游戏引流等场景。
+| 平台类型 | 平台名称 | 链接 |
+|----------|----------|------|
+| 📱 Android 云手机 | VMOS | [访问官网](https://www.vmoscloud.com) |
+| 🍏 iOS 云手机 / 插件 | iModular | [访问官网](https://imodular.cloud) |
+| ⚡ AIGC 算力 / 数据交易 | 算力云 | [访问官网](https://api.autodl.com/home) |
 
 
-## 开源硬件支持 配置/代码
-```
-  1. 香橙派5系列，内核支持云手机的补丁： https://github.com/lloves/OrangePi5-support
-```
-```
-  2. DUMP真机信息工具：https://github.com/lloves/CloudPhone/tree/main/%E5%B7%A5%E5%85%B7
-```
-```
-  3. 云手机开源代理 redsocks：https://github.com/lloves/proxy_android
-```
-```
-  4. Webrtc代码 +联系人，开源分享：https://github.com/lloves/WebrtcScreen
-```
+------
 
+# ☁️ 云手机 & 云游戏项目
 
-## 功能更新日志：
-### 20250730
-- APP沙盒支持教程；
-- Android 容器lxc/docker 系统调试器实现；
+AOSP 系统 API 仿真（教程免费）  
+支持云手机检测 / 模拟器检测 / Google Play Integrity / TEE（支持定制）
 
-### 20250102
-- ROM层任意注入四大组件、多开技术支持；
-- 全局系统调用HOOK技术分享；
+---
 
-### 20241216
-- 集成EBPF系列风控接口；
-- 云手机爬虫方案更新；
+## 🛠 云手机仿真技术定制
 
-### 20240807
-- 风控研究，支持mm过检测等；
-- 海外流媒体APP适配，点赞上粉等功能；
+- Syscall 仿真定制 - 单容器内核独立风控  
+- KVM 方案定制  
+- 硬件直刷 Android 风控定制  
+- 指定 APP 协议交付 - 协议交易
 
-### 20240619
-- 支持Google Play Integrity / SafetyNet 基础版本通过；
-- 移植支持Android 14版本系统；
+---
 
-### 20240522
-- 系统调用HOOK沙盒技术导入；
+## 🤖 AI 数据与协议交易
 
-### 20240107
-- 支持后端服务器大规模集群管理SaaS系统；
-- 支持Android客户端；
-- Linux & Android 系统沙盒技术，几乎无限真机信息全量clone, 无痕真机技术实现；
+- [AI 训练大规模数据爬虫、协议交易](#)
 
-### 20231223
-- 1.新增Magisk \ Frida 持久化，两个Hook框架；
-- 2.新增动态汇编指令跟踪调试插件，方便快速定位检测点（仅供技术交流）；
-- 3.SaaS 集群管理服务器功能升级，实现机房管理、运营管理系统，支持大规模商用场景部署；
+---
 
-### 20231103
-- 1.开源显卡Mesa库支持、游戏渲染兼容补丁不断提供；
-- 2.webrtc游戏试玩H5方案支持 <a href="https://github.com/lloves/WebrtcScreen">点击演示</a>；
+## 💡 技术交流
 
-### 20231010
-- 1.魔改scrcpy推流接口，通过ip访问云手机画面；
-- 2.内置真机机型增到30+；
-- 3.增加系统镜像备份功能；
+- ✰✰✰✰✰ 真机参数克隆仿真 ✰✰✰✰✰  
+- Telegram：[仅限技术交流，谨防冒充账号，合作务必谨慎](https://t.me/hkmetacc)  
+- 微信：smbbbla  
 
-### 20230805
-- 1.增加支持RTSP视频流功能；
-- 2.增加支持Audio声音传入Android系统的接口；
-- 3.实现虚拟摄像头直播功能；
-- 4.适配海外一些热门短视频应用过检测更新；
+> 云手机不仅是游戏多开和挂机，ARM 架构虚拟形态未来大有可为
 
-### 20230718
-- 1.支持自定义的webscrcpy群控接口；可满足二次开发；
-- 2.支持群控中英文键盘输入；
-- 3.真机检测功能完善；支持app过检测；
-- 4.内置hook框架开放，绕过检测；
+---
 
-### 20230613
-- 1.过hunter真机检测；
-- 2.群控开发截图接口优化，毫秒级别响应；群控开发更快捷；
-- 3.增加更多的真机模拟接口；
-- 4.更新网卡名字隐藏； 
-- 5.中台技术更新；
+## ⚡ 技术特点
 
-### 20230523
-- 1.旁路由方案；
-- 2.内核全局抓包工具；
-- 3.支持root权限管理；
+快速搭建整套 Web3、云手机方案、PaaS 方案，实现广告营销、游戏推广、工作室等需求  
 
+- 云手机虚拟化  
+- 风控仿真  
+- 过 Google 认证  
+- 沙盒技术  
+- 云手机 SaaS 系统开发
 
-<img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="200" height="200" alt="加+VX" /></br>
+---
 
-WeiXin：smbbbla  
-可以联系，在线体验。
+## 🖥 硬件方案
 
+- 瑞芯微 RK3588 系列 / 高通芯片  
+- 华为鲲鹏 920 ARM 服务器  
+- 阿里云 G6r ARM 芯片服务器  
+- X86 系列 + Nvidia / AMD 显卡  
 
-### 云控系统
-<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4">后台Demo</a>
+### 🔗 支持的硬件来源（如侵权联系我们删除）
 
-<a href="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4">点击演示</a>
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/4632.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4)
+| 硬件 | 来源 |
+|------|------|
+| 香橙派 5 全系列 | [OrangePi 官方](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/index.html) |
+| 安培 ARM 芯片服务器 | [联泰集群](https://www.lthpc.com/) |
+| RK3588 / 3399 ARM 芯片 | [中山市天启智能科技](https://www.t-firefly.com/news/457.html) |
+| Ampere ARM 服务器 | [Ampere Computing](https://amperecomputing.com/zh-CN) |
+| AWS Arm 服务器 | [AWS EC2](https://aws.amazon.com/cn/ec2/instance-types/a1/) |
+| Nvidia 显卡 | [Nvidia](https://www.nvidia.cn/geforce/graphics-cards/) |
+| AMD 显卡 | [AMD](https://www.amd.com/zh-hans) |
+| 天玑 9000 / 高通 845 ARM 芯片 | 联系定制 |
+
+---
+
+## 💾 软件方案
+
+- 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等  
+- 支持推流、音视频 Web 播放，动态链接生成分享  
+- 支持广告运营、云游戏引流等场景
+
+---
+
+## 🛠 开源硬件 / 工具支持
+
+1. 香橙派 5 系列内核补丁：[OrangePi5-support](https://github.com/lloves/OrangePi5-support)  
+2. DUMP 真机信息工具：[工具仓库](https://github.com/lloves/CloudPhone/tree/main/%E5%B7%A5%E5%85%B7)  
+3. 云手机开源代理 redsocks：[GitHub](https://github.com/lloves/proxy_android)  
+4. WebRTC + 联系人开源分享：[GitHub](https://github.com/lloves/WebrtcScreen)
 
 
 
-### 挂机多开
-[![](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/mmexport1669700201916.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/lv_0_20221129131515.mp4)
+# ☁️ 云手机 & 云游戏功能更新日志
 
-----------------------------------------------------------------------------------------------------------------------------------------------
-      
+---
 
-## 支持的单机硬件产品
-- Station M3 娱乐·极客主机M3 https://www.stationpc.cn/product/stationm3
-- rock5b 
-- 待完善
+## 🗓 功能更新
 
-## Arm服务器外观
+### 2025-07-30
+- APP 沙盒支持教程  
+- Android 容器 LXC/Docker 系统调试器实现  
 
-支持多种规格的ARM服务器。
+### 2025-01-02
+- ROM 层任意注入四大组件，多开技术支持  
+- 全局系统调用 HOOK 技术分享  
 
+### 2024-12-16
+- 集成 EBPF 系列风控接口  
+- 云手机爬虫方案更新  
 
-**标准机架式服务器。支持机房搭建。**
+### 2024-08-07
+- 风控研究，支持 MM 过检测  
+- 海外流媒体 APP 适配，点赞上粉等功能  
 
+### 2024-06-19
+- 支持 Google Play Integrity / SafetyNet 基础版本  
+- 移植支持 Android 14 系统  
 
-## 软件支持：
-- 云控系统；  
-- 支持Android 7 方案；  
-- 原神低成本软硬件一体养号方案；  
-- 支持Android 9 方案；  
-- 支持Android 11 方案；  
-- 支持Android 12 方案；  
-- 支持OpenGL ES 3.1-3.2 游戏稳定挂机；  
-- 支持多开，一开多；  
-- 支持多种脚本框架，稳定运行；  
-- 支持定制的HOOK，防检测；  
-- 支持虚拟化，多开；  
-- 支持web传屏推流；  
-- 支持传感器；  
-- 支持GPS；  
-- 支持Camera；  
+### 2024-05-22
+- 系统调用 HOOK 沙盒技术导入  
 
-## 支持游戏&应用List
+### 2024-01-07
+- 支持后端服务器大规模集群管理 SaaS 系统  
+- 支持 Android 客户端  
+- Linux & Android 系统沙盒技术，实现无限真机信息克隆，无痕真机技术  
 
-- Line
-- Whatsapp
-- 吃鸡
-- 微信
-- Tiktok/抖音
-- 小红书
-- 王者荣耀
-- 原神
-- FaceBook
-- GMS
-- ...
+### 2023-12-23
+- Magisk / Frida 持久化 Hook 框架  
+- 动态汇编指令跟踪调试插件（仅供技术交流）  
+- SaaS 集群管理服务器升级，实现机房管理、运营管理系统  
 
-## 成功案例
+### 2023-11-03
+- 开源显卡 Mesa 库支持、游戏渲染兼容补丁  
+- WebRTC 游戏试玩 H5 方案支持 [点击演示](https://github.com/lloves/WebrtcScreen)  
 
-#### 1. 外贸云助手，无障碍登录Facebook、ins、Tiktok等社交、短视频应用，实现一人远程管理成百账号的方案。
+### 2023-10-10
+- 魔改 scrcpy 推流接口，通过 IP 访问云手机画面  
+- 内置真机机型增加到 30+  
+- 增加系统镜像备份功能  
 
-#### 2. 海外游戏引流推广，基于ucloud、aws等云服务，实现游戏试玩下载的方案。
+### 2023-08-05
+- 支持 RTSP 视频流功能  
+- 支持 Audio 声音传入 Android 系统接口  
+- 实现虚拟摄像头直播功能  
+- 海外热门短视频应用过检测更新  
 
-#### 3. 国产消费级Arm芯片，原神等大型手游实时多开挂机方案【硬件+源码】。
+### 2023-07-18
+- 支持自定义 WebScrcpy 群控接口，可二次开发  
+- 群控中英文键盘输入  
+- 真机检测功能完善，支持 APP 过检测  
+- 内置 Hook 框架开放，绕过检测  
 
+### 2023-06-13
+- 过 Hunter 真机检测  
+- 群控开发截图接口优化，毫秒级响应  
+- 增加更多真机模拟接口  
+- 更新网卡名字隐藏  
+- 中台技术更新  
 
-____________________________________________ 
+### 2023-05-23
+- 旁路由方案  
+- 内核全局抓包工具  
+- 支持 Root 权限管理  
 
-#### - 基于移动OS虚拟化技术、边缘算力技术。
+---
 
-#### - 拥有核心自主的GPU远端渲染技术。与市面上开源的云手机方案最明显的区别，支持移动端游戏。
-#### - 与ucloud云手机、红手指、多多云等商用云手机的方案区别：定制HOOK注入方案、虚拟相机、位置模拟、动态IP、指定游戏脚本定制
+## 📱 联系方式
 
-#### - 云手机、云游戏，支持私域、公域两种方式搭建。有X86、Arm 主机就可以, Android系统可开源、可定制，超强悍的游戏应用适配技术。低成本、更灵活。
+<img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="150" height="150" alt="加+VX" />  
 
-## 技术特点【快速搭建整套Web3、云手机方案、PaaS方案，实现广告营销、游戏推广、工作室等需求】
+- **WeiXin**：smbbbla  
+- 在线体验 & 技术交流  
 
-- 自研技术一站式部署全球所有主流 X86 及 ARM 架构公有云、私有云、裸金属服务器等。
-- 支持推流，音视频用户Web端播放，动态链接生成分享。
-- 支持广告运营，云游戏引流等场景。
+---
 
-## ☆☆☆☆☆☆☆业内最灵活可定制的的云手机方案☆☆☆☆☆☆☆☆☆
+## 🖥 云控系统演示
+
+- [后台 Demo](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4)  
+- [点击演示](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4)  
+
+[![云控演示](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/4632.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4)
+
+---
+
+## 🎮 挂机多开演示
+
+[![挂机多开](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/mmexport1669700201916.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/lv_0_20221129131515.mp4)
+
+---
+
+## 🛠 支持的硬件产品
+
+### 单机硬件
+- Station M3 娱乐·极客主机 M3：[官网](https://www.stationpc.cn/product/stationm3)  
+- Rock5B  
+- 待完善  
+
+### ARM 服务器外观
+支持多种规格的 ARM 服务器，标准机架式，适合机房搭建
+
+---
+
+## 💾 软件支持
+- 云控系统  
+- Android 7 / 9 / 11 / 12 方案  
+- 原神低成本软硬件一体养号方案  
+- 支持 OpenGL ES 3.1-3.2 游戏稳定挂机  
+- 多开、一开多  
+- 多种脚本框架，稳定运行  
+- 定制 Hook、防检测  
+- 虚拟化、多开  
+- Web 传屏推流  
+- 支持传感器、GPS、Camera  
+
+---
+
+## 🎮 支持游戏 & 应用
+
+Line | Whatsapp | 吃鸡 | 微信 | TikTok / 抖音 | 小红书 | 王者荣耀 | 原神 | Facebook | GMS | ...  
+---|---|---|---|---|---|---|---|---|---  
+
+---
+
+## 🏆 成功案例
+
+1. 外贸云助手：实现 Facebook、Instagram、TikTok 多账号无障碍远程管理  
+2. 海外游戏引流推广：基于 UCloud、AWS 等云服务，实现试玩下载  
+3. 国产 ARM 芯片：原神等大型手游实时多开挂机方案（硬件+源码）  
+
+---
+
+## 🌟 技术亮点
+
+- 移动 OS 虚拟化技术、边缘算力技术  
+- 核心 GPU 远端渲染技术，支持移动端游戏  
+- 定制 Hook 注入方案、虚拟相机、位置模拟、动态 IP、游戏脚本定制  
+- 云手机/云游戏支持私域、公域两种搭建方式  
+- 支持 X86 / ARM 主机，Android 系统可开源、可定制  
+
+---
+
+## ⚡ 快速搭建方案
+
+- 一站式部署全球 X86 / ARM 架构公有云、私有云、裸金属服务器  
+- 支持推流、音视频 Web 播放、动态链接分享  
+- 支持广告运营、云游戏引流  
+
+---
+
+## 🌟☆☆☆☆☆☆☆业内最灵活可定制云手机方案☆☆☆☆☆🌟
+
 
 
 
