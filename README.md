@@ -29,6 +29,18 @@
 
 ---
 
+<div align="center">
+🌐 我们常用的云移动领域平台快速访问
+
+| 平台类型 | 平台名称 | 快速入口 |
+| :--- | :--- | :--- |
+| **📱 Android 云手机** | **VMOS** | [👉 访问官网](https://www.vmoscloud.com) |
+| **🍏 iOS 云手机 / 插件** | **iModular** | [👉 访问官网](https://imodular.cloud) |
+| **⚡ AIGC 算力 / 交易** | **算力云** | [👉 访问官网](https://api.autodl.com/home) |
+</div>
+
+---
+
 ## 🚀 核心产品矩阵
 
 我们提供从底层虚拟化到应用层的全栈移动云解决方案，覆盖 Android、iOS 及 AI 算力场景。
