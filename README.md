@@ -28,8 +28,9 @@
 | 🍏 iOS 云手机 / 插件 | iModular | [访问官网](https://imodular.cloud) |
 | ⚡ AIGC 算力 / 数据交易 | 算力云 | [访问官网](https://api.autodl.com/home) |
 
-
 ------
+
+
 
 # ☁️ 云手机 & 云游戏项目
 
@@ -200,19 +201,6 @@ AOSP 系统 API 仿真（教程免费）
 
 ---
 
-## 🖥 云控系统演示
-
-- [后台 Demo](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/web_manager/show-web.mp4)  
-- [点击演示](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4)  
-
-[![云控演示](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/4632.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20230307/bandicam%202023-03-07%2009-16-46-651.mp4)
-
----
-
-## 🎮 挂机多开演示
-
-[![挂机多开](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/mmexport1669700201916.png)](https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221113/lv_0_20221129131515.mp4)
-
 ---
 
 ## 🛠 支持的硬件产品
@@ -244,7 +232,6 @@ AOSP 系统 API 仿真（教程免费）
 ## 🎮 支持游戏 & 应用
 
 Line | Whatsapp | 吃鸡 | 微信 | TikTok / 抖音 | 小红书 | 王者荣耀 | 原神 | Facebook | GMS | ...  
----|---|---|---|---|---|---|---|---|---  
 
 ---
 
