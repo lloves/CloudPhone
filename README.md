@@ -10,7 +10,7 @@
 <p align="center">
   <strong>核心驱动：</strong>
   <br/>
-  ARM 虚拟化架构 • AI Agent 自动化 • 内核级风控仿真 • 全球实时流媒体
+  ARM 虚拟化架构 • AI Agent 自动化(“豆包云手机”) • 内核级风控仿真 • 全球实时流媒体
 </p>
 
 <div style="display: flex; justify-content: center; gap: 15px;">
