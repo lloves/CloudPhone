@@ -62,6 +62,7 @@
 不仅仅是云手机，更是移动操作系统的深度定制与仿真。
 
 #### 🛡️ 风控与仿真 (Anti-Detection)
+* **生物仿真：** Camera 50+参数任意Android版本仿真、3D实时面部过检测、生物传感器过检测。
 * **Syscall 级仿真：** 单容器内核独立风控，完美模拟真机指纹。
 * **Google 生态支持：** 通过 Play Integrity / SafetyNet 验证，支持 TEE 定制。
 * **无痕 Hook：** 独家 ROM 层注入，支持 Magisk / Frida 持久化框架及 EBPF 接口。
