@@ -11,6 +11,11 @@
   <strong>核心驱动：</strong>
   <br/>
   ARM 虚拟化架构 • AI Agent 自动化(“豆包云手机”) • 内核级风控仿真 • 全球实时流媒体
+  <br/>
+  <br/>
+  当 AI 智力充沛到能像人一样看、听、感知时，最自然的交互就是“没有交互”（No UI is the best UI）。 
+  <br/>
+  我们将回到在物理世界中像人与人交流那样，与数字世界互动。
 </p>
 
 <div style="display: flex; justify-content: center; gap: 15px;">
