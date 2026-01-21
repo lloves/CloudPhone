@@ -143,8 +143,9 @@
 
 ## 🤝 联系与合作
 
-**云手机不仅是游戏多开，ARM 架构虚拟化与 AI 结合大有可为。**
-我们在寻找技术极客与商业合作伙伴。
+**基于 ARM 虚拟化，构建高仿真、可执行的移动 AI 世界。**
+</br>
+**我们开放提示词、源码、核心技术与海量实时数据，寻找全球商业合作伙伴。**
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="120" height="120" alt="WeChat QR">
