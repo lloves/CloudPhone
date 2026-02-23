@@ -3,7 +3,7 @@
 # ☁️ CloudPhone & MetaScreen
 ### 下一代 AI 原生云手机与移动云基础设施
 
-[English](README_en.md) | [访问官网](https://metascreen.io/) | [在线演示|Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
+[English](README_en.md) | [访问官网](https://metascreen.cn/) | [在线演示|Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
 
 ---
 
