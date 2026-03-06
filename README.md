@@ -6,8 +6,7 @@
 [English](README_en.md) | [访问官网](https://metascreen.io/) | [在线演示|Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
 
 
-### 公告：
-### 可以定制支持海外Google Cloud、安培、AWS X86和ARM64 云手机服务。不受供应链涨价影响。
+### Note: 可以定制支持海外Google Cloud、安培、AWS X86和ARM64 云手机服务。不受供应链涨价影响。
 ### 可以定制主板机、云真机云控管理。  
 ---
 
