@@ -6,9 +6,9 @@
 [English](README_en.md) | [访问官网](https://metascreen.io/) | [在线演示|Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
 
 
-### Note: 可以定制支持海外Google Cloud、安培、AWS X86和ARM64 云手机服务。不受供应链涨价影响。
-### 可以定制主板机、云真机云控管理。  
-### 逆向工程的‘自动驾驶’时代：5 分钟，解锁 95% 的黑盒应用，让动态调试如呼吸般自然。
+### 📱: 可以定制支持海外Google Cloud、安培、AWS X86和ARM64 云手机服务，用于出海数据服务。
+### 可以定制主板机、云真机云控管理：可以解决底层串流、远程粘贴复制等核心稳定能力。
+### 逆向工程的‘自动驾驶’时代：5 分钟，解锁 95% 的黑盒应用，动态调试如呼吸般自然。
 ---
 
 <p align="center">
