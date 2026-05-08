@@ -5,10 +5,6 @@
 
 [English](README_en.md) | [访问官网](https://metascreen.io/) | [在线演示|Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
 
-
-### 📱: 可以定制支持海外Google Cloud、安培、AWS X86和ARM64 云手机服务，用于出海数据服务。
-### 可以定制主板机、云真机云控管理：可以解决底层串流、远程粘贴复制等核心稳定能力。
-### 配合《移动安全沙盒》实战教程，通杀 95% 应用核心逻辑！
 ---
 
 <p align="center">
@@ -49,6 +45,25 @@
 </div>
 
 ---
+
+## 📱 云手机与异构云平台定制能力
+
+支持海外 Google Cloud、Ampere 架构、AWS X86 / ARM64 等多云异构环境的云手机部署与出海数据服务能力，提供高可扩展的全球化算力接入与运行环境适配。
+
+## 🧠 底层虚拟化与真机控制能力
+
+支持定制化主板机与云真机集群管理体系，具备完整的云控调度能力，可稳定实现包括底层视频串流优化、输入链路控制、远程剪贴板同步、多端一致性交互等核心能力，保障高并发场景下的稳定性与低延迟体验。
+
+## ⚙️ VM级指令虚拟执行与运行时控制能力（核心技术层）
+
+### 系统内置自研虚拟机指令级执行与运行时控制引擎（VM Instruction Runtime Layer），可对应用执行路径进行细粒度虚拟化映射与行为调度，实现：
+
+- 指令级行为捕获与重定向（Instruction Hooking & Redirection）
+- 运行时执行流虚拟化（Runtime Execution Virtualization）
+- 系统调用与应用行为语义解析（Syscall & Behavior Semantics Mapping）
+- 跨架构（X86 / ARM64）统一执行抽象层
+- 风险行为的动态隔离与执行路径重写能力
+
 
 ## 🚀 核心产品矩阵
 
