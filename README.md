@@ -49,7 +49,13 @@
 
 ## 📱 云手机与异构云平台定制能力
 
-支持RK3588\MediaTek\鲲鹏920\海外 Google Cloud、Ampere 架构、AWS X86 / ARM64 等多云异构环境的云手机部署与出海数据服务能力，提供高可扩展的全球化算力接入与运行环境适配。
+| Feature | Description |
+|---------|-------------|
+| 🖥️ Multi-Architecture | Apple Mac Silicon（QEMU）、RK3588、MediaTek、鲲鹏920、AWS x86/ARM64、Google Cloud、Ampere |
+| ☁️ Cloud Phone | 云手机部署、弹性扩容、多实例管理 |
+| 🌍 Global Infrastructure | 全球多云部署、海外节点接入、跨区域资源调度 |
+| 📦 Virtualization | Android 虚拟化、ARM/x86 异构运行 |
+| 🚀 Scalability | 支持边缘节点、IDC、云服务器统一部署 |
 
 ## 🧠 底层虚拟化与真机控制能力
 
