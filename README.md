@@ -2,18 +2,18 @@
 
 # ☁️ CloudPhone & MetaScreen
 ### 下一代 AI 原生云手机与移动云基础设施\数据工厂
-### 云手机变现渠道聚合\风控引擎定制合作\Play Integrity代签
+### 云手机变现渠道聚合•风控引擎定制合作•Play Integrity代签
 
 [English](README_en.md) | [访问官网](https://metascreen.io/) | [在线演示|Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
 
 ---
 
 <p align="center">
-  <strong>核心驱动：支持定制ROM镜像</strong>
+  <strong>核心驱动：支持定制ROM镜像 </strong>
   <br/>
   
   <br/>
-  云真机 • ARM 虚拟化架构 • AI Agent 自动化(“豆包云手机”) • 内核级风控仿真 • 全球实时流媒体
+  云真机 • ARM 虚拟化架构 • AI Agent 自动化• 二进制Patch痕迹隐藏 • 内核级风控仿真 • 全球实时流媒体
   <br/>
   <br/>
   专注于 原生Webrtc推流、云控、APP安全协议分析、智能风控、金融科技安全、社交平台安全。
