@@ -1,7 +1,7 @@
 <div align="center">
 
 # ☁️ CloudPhone & MetaScreen
-### 下一代 AI 原生云手机与移动云基础设施\数据工厂
+### 下一代 AI 原生云手机与移动云基础设施/数据工厂
 ### 推荐: MacMini + Android 15/16 QEMU 完整过认证方案，独立内核、官方ROM定制版本
 ### 云手机变现渠道聚合•风控引擎定制合作•Play Integrity代签
 
