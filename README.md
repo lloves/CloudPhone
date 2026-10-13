@@ -181,7 +181,7 @@
   <div>
     <ul style="list-style: none; padding: 0;">
       <li>💬 <strong>WeChat:</strong> <code>smbbbla</code></li>
-      <li>✈️ <strong>Telegram:</strong> <a href="https://t.me/metascreenbi">@hkmetacc</a> (仅限技术交流)</li>
+      <li>✈️ <strong>Telegram:</strong> <a href="https://t.me/metascreenbi">@metascreenbi</a> (仅限技术交流)</li>
       <li>⚠️ <strong>注意:</strong> 谨防冒充账号，合作请务必验证身份。</li>
     </ul>
   </div>
