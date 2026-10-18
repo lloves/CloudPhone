@@ -49,7 +49,7 @@
 | 产品名称 | 技术分类 | 核心定位与场景 |
 | :--- | :--- | :--- |
 | **SandBox Phone** | 🛡️ 移动安全 | **[攻防对抗]** 内核级隔离环境，专为高风险应用运行、病毒分析与安全研究打造。 |
-| **Real Device Cloud** | 📱 云手机系统 | **[物理真机集群]** 提供真实硬件传感器与系统行为，专为高强度风控与测试设计。 |
+| **Real Device Cloud** | 📱 云真机系统 | **[物理真机集群]** 提供真实硬件传感器与系统行为，专为高强度风控与测试设计。 |
 | **HyperDroid K** | 📱 云手机系统 | **[KVM 架构]** 高性能 Android 云手机，强调内核隔离、安全性与服务器高密度部署。 |
 | **DockerDroid OS** | 🎮 云游戏沙盒 | **[容器技术]** 基于 Docker 的轻量级 Android 环境，毫秒级启动，适合高并发任务调度。 |
 | **MetaStream Phone**| 📡 实时推流 | **[低延迟推流]** 以音视频流为核心，支持 WebRTC/RTSP，不仅是手机，更是实时互动的屏幕。 |
@@ -80,13 +80,13 @@
 ### 🔵 X86 架构 + GPU 加速
 * **图形加速卡：** NVIDIA GeForce/Tesla 系列, AMD Radeon 系列
 * **应用场景：** 高性能云游戏渲染、3D 渲染与 AI 视觉模型推理
+</details>
 
 ### 🔗 开源与工具支持
 * [OrangePi 5 内核补丁](https://github.com/lloves/OrangePi5-support)
 * [云手机开源代理 (redsocks)](https://github.com/lloves/proxy_android)
 * [WebRTC + 联系人开源分享](https://github.com/lloves/WebrtcScreen)
 
-</details>
 
 ---
 
