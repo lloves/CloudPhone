@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 关于我们 (About Us)
+## About Us
 
 **CloudPhone & MetaScreen** 是 **移动云基础设施与系统安全解决方案提供商**。
 
