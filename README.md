@@ -3,6 +3,7 @@
 # ☁️ CloudPhone & MetaScreen
 ### 全栈移动云基础设施 • 云游戏沙盒 • 移动系统安全与实时推流技术服务商
 
+
 [English](README_en.md) | [访问官网](https://metascreen.io/) | [在线演示 | Agent无仿真版本](https://cloudplay.live/screen-index-phone-2-agent)
 
 [![Android](https://img.shields.io/badge/Android-VMOS_Cloud-blue?style=for-the-badge&logo=android)](https://www.vmoscloud.com)
@@ -14,11 +15,7 @@
 ---
 
 ## About Us
-
-**CloudPhone & MetaScreen** 是 **移动云基础设施与系统安全解决方案提供商**。
-
-我们专注于 ARM & 商用显卡异构虚拟化、原生 WebRTC 低延迟推流、系统级安全攻防对抗及 Play Integrity 认证技术。为伙伴提供从**底层 ROM 镜像定制、云手机/游戏沙盒搭建，到高级风控引擎与 AI Agent 自动化**的技术服务。
-
+### 我们构建了一个由全球真实移动设备驱动的 AI 连接网络，让全球任意 App 都能成为可连接、可交互、可智能驱动的数据与服务通道。
 ---
 
 ## 🛠️ 四大核心技术服务
@@ -91,7 +88,7 @@
 ---
 
 ## 🤝 技术交流 / 商务合作
-**基于 ARM 虚拟化，构建高仿真、可执行的移动云与 AI 世界**
+**我们构建了一个由全球真实移动设备驱动的 AI 连接网络，让全球任意 App 都能成为可连接、可交互、可智能驱动的数据与服务通道。**
 </br>
 
 <div style="display: flex; align-items: center; gap: 20px;">
