@@ -87,20 +87,48 @@
 
 ---
 
-## 🤝 技术交流 / 商务合作
-**我们构建了超过20个由一万以上的真实/虚拟移动Mobile-Phone-OS驱动的移动设备群，让任意 App 屏幕都能成为AI背景下可连接、可交互、可智能驱动的数据与服务通道。**
-</br>
+## Business & Technology Partnerships
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="120" height="120" alt="WeChat QR">
-  <div>
-    <ul style="list-style: none; padding: 0;">
-      <li>💬 <strong>WeChat:</strong> <code>smbbbla</code></li>
-      <li>✈️ <strong>Telegram:</strong> <a href="https://t.me/metascreenbi">@metascreenbi</a> (仅限技术交流)</li>
-      <li>⚠️ <strong>注意:</strong> 谨防冒充账号，谢谢审核。</li>
-    </ul>
-  </div>
-</div>
+**Building the next generation of AI-powered mobile infrastructure.**
+
+我们构建了由 **10,000+ 台真实与虚拟移动设备**组成的设备基础设施，覆盖 **20+ 个设备集群**。通过 Mobile OS、设备互联与 AI Agent 技术，让每一个移动应用都成为可连接、可感知、可交互、可智能驱动的数据与服务入口。
+
+我们期待与全球技术开发者、企业及生态伙伴建立合作，共同探索 AI 与移动计算的更多可能。
+
+---
+
+<table>
+  <tr>
+    <td width="190" align="center" valign="middle">
+      <img src="https://github-cloud-phone.oss-cn-hangzhou.aliyuncs.com/games/20221020/136.png" width="140" alt="WeChat QR Code"/>
+      <br/>
+      <sub>微信 · SCAN TO CONNECT</sub>
+    </td>
+    <td valign="middle">
+      <h3>一起构建真正的 - 智能 Mobile Phone OS </h3>
+      <p>For business inquiries, technical collaboration and ecosystem partnerships.</p>
+      <p><strong>微信</strong><br/>
+      <code>smbbbla</code></p>
+      <p><strong>Telegram</strong><br/>
+      <a href="https://t.me/metascreenbi">@metascreenbi</a></p>
+      <p><sub>Telegram is for technical discussions only.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Security Notice · Please verify account identity and beware of impersonation.</sub>
+</p>
+
+---
+
+<p align="center">
+  <sub>MetaScreen · AI-Native Mobile Infrastructure</sub>
+</p>
+
+---
+
+<sub>MetaScreen · AI-Native Mobile Infrastructure · Technology & Ecosystem Partnerships</sub>
 
 ---
 
