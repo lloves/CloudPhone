@@ -82,7 +82,7 @@
 ### 🔗 开源与工具支持
 * [OrangePi 5 内核补丁](https://github.com/lloves/OrangePi5-support)
 * [云手机开源代理 (redsocks)](https://github.com/lloves/proxy_android)
-* [WebRTC + 联系人开源分享](https://github.com/lloves/WebrtcScreen)
+* [WebRTC 开源分享](https://github.com/lloves/WebrtcScreen)
 
 
 ---
