@@ -128,8 +128,6 @@
 
 ---
 
-<sub>MetaScreen · AI-Native Mobile Infrastructure · Technology & Ecosystem Partnerships</sub>
-
 ---
 
 <div align="center">
