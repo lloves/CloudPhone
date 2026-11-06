@@ -109,9 +109,10 @@
       <p>For business inquiries, technical collaboration and ecosystem partnerships.</p>
       <p><strong>微信</strong><br/>
       <code>smbbbla</code></p>
+      <p><strong>Tel</strong><br/>
+      <code>+86 18759187545</code></p>
       <p><strong>Telegram</strong><br/>
       <a href="https://t.me/metascreenbi">@metascreenbi</a></p>
-      <p><sub>Telegram is for technical discussions only.</sub></p>
     </td>
   </tr>
 </table>
@@ -121,15 +122,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <sub>MetaScreen · AI-Native Mobile Infrastructure</sub>
-</p>
-
----
-
----
-
-<div align="center">
-  <sub>Copyright © 2025-2026 CloudPhone Project. All Rights Reserved.</sub>
-</div>
